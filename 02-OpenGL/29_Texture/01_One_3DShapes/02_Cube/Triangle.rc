@@ -1,0 +1,11 @@
+#include "Triangle.h"
+
+
+MY_ICON ICON icon.ico
+IDBITMAP_STONE BITMAP  "Stone.bmp"
+IDBITMAP_KUNDALI BITMAP "Vijay_Kundali.bmp"
+
+
+
+
+ 

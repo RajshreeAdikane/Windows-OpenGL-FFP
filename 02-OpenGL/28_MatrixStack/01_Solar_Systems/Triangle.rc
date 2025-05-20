@@ -1,0 +1,27 @@
+#include "Triangle.h"
+
+
+MY_ICON ICON icon.ico
+IDBITMAP_BACKGROUND BITMAP "background.BMP"
+IDBITMAP_SUN_TEXTURE BITMAP "sun_texture.BMP"
+IDBITMAP_EARTH_TEXTURE BITMAP "earth_texture.BMP"
+IDBITMAP_MOON_TEXTURE BITMAP "moon_texture.BMP"
+IDBITMAP_MARS_TEXTURE BITMAP "mars_texture.BMP"
+IDBITMAP_SATURN_RINGS_TEXTURE BITMAP "saturn_ring.BMP"
+IDBITMAP_JUPITER_TEXTURE BITMAP "jupiter_texture.BMP"
+IDBITMAP_SATURN_TEXTURE BITMAP "saturn_texture.BMP"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
