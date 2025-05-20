@@ -1,0 +1,9 @@
+File succesfully created
+aspect = 1.397504 (784 / 561)
+X-Axis:0
+Y-Axis:0
+aspect = 1.333333 (800 / 600)
+X-Axis:0
+Y-Axis:0
+initialize() : Completed successfully...
+Program terminated successfully
