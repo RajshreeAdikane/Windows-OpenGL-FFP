@@ -1,0 +1,8 @@
+File succesfully created
+*********************
+OpenGL Vendor  : Intel
+OpenGL Renderer: Intel(R) HD Graphics 4400
+OpenGL Version : 4.3.0 - Build 20.19.15.5058
+*********************
+initialize() : Completed successfully...
+Program terminated successfully
