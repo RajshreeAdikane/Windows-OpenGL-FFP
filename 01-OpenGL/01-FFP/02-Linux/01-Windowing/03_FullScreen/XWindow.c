@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
-#include <stdbool.h>    // ✅ For bool, true, false
+#include <stdbool.h>    
 
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
@@ -11,7 +11,7 @@
 #define WIN_HEIGHT 600
 
 Display *gpDisplay = NULL;
-XVisualInfo *visualInfo = NULL;   // ✅ changed to pointer
+XVisualInfo *visualInfo = NULL;
 Window window;
 Colormap colormap;
 bool bFullScreen = false;
