@@ -55,6 +55,10 @@ GLfloat spotExponent = 2.0f; // Focus of the spotlight
 
 BOOL blight = FALSE;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6dc574d (added spotlight assighment)
 // Entry Point Function
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdLine, int iCmdShow)
 {
@@ -234,7 +238,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT imsg, WPARAM wParam, LPARAM lParam)
 				gbFullScreen = FALSE;
 			}
 			break;
+<<<<<<< HEAD
 		case 'L':
+=======
+>>>>>>> 6dc574d (added spotlight assighment)
 		case 'l':
 			blight = !blight;
 			if (blight) {
@@ -444,6 +451,10 @@ int initialize(void)
 	glColorMaterial(GL_FRONT, GL_AMBIENT_AND_DIFFUSE);
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6dc574d (added spotlight assighment)
 	//if we want to add light then Normal  Line is very imp it shows the orientation of the light its the perpendicular 
 
 
