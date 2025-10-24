@@ -1,0 +1,19 @@
+Program Started Successfully
+Spotlight Enabled and Focused on Center
+Spotlight angle decreased to: 25.0 degrees
+Spotlight angle decreased to: 20.0 degrees
+Spotlight angle decreased to: 15.0 degrees
+Spotlight angle increased to: 20.0 degrees
+Spotlight angle increased to: 25.0 degrees
+Spotlight angle increased to: 30.0 degrees
+Spotlight angle increased to: 35.0 degrees
+Spotlight angle increased to: 40.0 degrees
+Spotlight angle increased to: 45.0 degrees
+Spotlight angle increased to: 50.0 degrees
+Spotlight angle decreased to: 45.0 degrees
+Spotlight angle decreased to: 40.0 degrees
+Spotlight angle decreased to: 35.0 degrees
+Spotlight angle decreased to: 30.0 degrees
+Spotlight angle decreased to: 25.0 degrees
+Spotlight angle decreased to: 20.0 degrees
+Lighting Disabled
