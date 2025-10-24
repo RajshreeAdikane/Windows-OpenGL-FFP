@@ -1,0 +1,4 @@
+Program started successfully!
+glXCreateContext succeeded.
+Initialization succeeded.
+Program terminated Successfully!.
