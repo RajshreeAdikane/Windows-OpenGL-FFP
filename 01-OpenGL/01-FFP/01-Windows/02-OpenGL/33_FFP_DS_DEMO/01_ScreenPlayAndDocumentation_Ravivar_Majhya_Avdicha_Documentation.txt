@@ -1,0 +1,114 @@
+🎬 Project Documentation & Screenplay
+Title: रविवार माझ्या आवडीचा (Ravivar Majhya Avdicha)
+
+------------------------------------------------
+📌 Project Overview (Documentation)
+------------------------------------------------
+This real-time graphics demo expresses the emotional journey of a corporate employee throughout the week—
+especially highlighting the excitement, nostalgia, and joy that Sunday brings.
+
+🧠 Concept:
+Weekend = Freedom + Childhood memories + Happiness
+Weekdays = Work pressure + Stress + No personal life
+
+🎯 Technical Objective:
+✔ To merge storytelling with OpenGL graphics
+✔ To utilize Data Structures (Stack) in scene transformation
+✔ To animate emotions using camera + texture + lighting
+
+🛠 Tech Stack:
+C/C++ | Win32 API | OpenGL (Fixed Function Pipeline)
+Visual Studio for Development
+Canva for Graphic/Texture Elements
+
+🎨 Creative Elements:
+✔ Humanoid character as Employee/Child
+✔ IT Park, Home, Park scenes using transformations
+✔ Lighting + Animations for mood variations
+✔ Moving text visuals for weekday frustration
+
+------------------------------------------------
+🎬 Detailed Screenplay
+------------------------------------------------
+
+Scene 1: ऑफिस लाइफ प्रेशर
+📍 Location: Corporate Office
+🎵 Background: “1 नाही… 2 नाही… No Emails!”
+💡 Description:
+    - Employee standing 
+    - Background floating text: “NO MEETINGS”, “NO CALLS”, “NO MANGERS BAKBAK" "LOOP LOFE"
+    - Blue cold light showing stress
+📝 भावनाः
+    “आजही काम… रविवारी कधी येणार?”
+
+Scene 2: आयटी पार्क संध्याकाळ
+📍 IT Park, Sunset Time
+💡 Camera pulls backward slowly
+Work day ending,
+📝 भावनाः
+    “बस्स! आता मज्जा सुरू!” "raviwar mazhya avdicha"
+
+Scene 3: घर + बालपण
+📍 Home like Nobita’s House
+Props: Toys, Ball, Cycle
+Warm light setting
+Employee playful like a kid 😄
+📝 भावनाः
+    “रविवार आला की बालपण परत येतं!”
+
+Scene 4: सोमवारची भीती 😱
+📍 Home like Nobita’s House
+Employee waking in a frusted thought सोमवारची भीती 😱
+📝 भावनाः
+    “Monday??? नको रे बाबा ऑफिस!”
+
+Scene 5: झोपलेला रविवार गेला 😴→🌙
+📍 Bedroom
+Time-lapse animation:
+Clock spins fast → Day turns Night
+📝 भावनाः
+    “रविवार कधी गेला कळलंच नाही!”
+
+Scene 6: मंगळवार = भूगोल विषयाची शिक्षा 📚
+📍 Office it park and work load on head
+Background feeling like childhood hate for Geography compares geography earth with work load
+📝 भावनाः
+    “कामाचा लोड भूगोल विषयासारखा बोअर!”
+
+Scene 7: शनिवार-रविवार Love & Chill ❤️
+📍 Park evening
+Soft breeze, greenery, sunset
+Employee meets a girl… happy mood 😊
+📝 भावनाः
+    “Weekend म्हणजे ❤️ प्रेम + चिल + मज्जा!”
+
+------------------------------------------------
+📌 Cinematic Style Breakdown
+------------------------------------------------
+Camera:
+ Dolly Back in Scene 2
+ Time-lapse in Scene 5
+ Slow Pan & Character Focus in Scene 7
+
+Lighting:
+Monday: Low saturation, dark blues
+Weekend: Warm tones, bright yellow & orange
+
+------------------------------------------------
+📌 Data Structure Involvement (Stack)
+------------------------------------------------
+✔ Push matrix while drawing each scene element
+✔ Pop matrix after rendering object
+✔ Used for transformations: Translate, Rotate, Scale
+
+------------------------------------------------
+📌 Conclusion
+------------------------------------------------
+This demo shows:
+ Why Sunday feels like childhood ❤️
+ Why weekdays feel like torture 😬
+ Why weekend gives hope ✨
+
+रविवार माझ्या आवडीचा —
+Because Sunday = Life, Love & Happiness 😄✨
+------------------------------------------------
